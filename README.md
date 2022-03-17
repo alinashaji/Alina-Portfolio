@@ -17,7 +17,7 @@ Did exploratory data analysis to establish correlation with inputs and target
  
 
 
-DATASCIENCE WEATHER PREDICTION - PROJECT 2
+ PROJECT 2 - DATASCIENCE WEATHER PREDICTION -
 
 Commonwealth of Australia, Bureau of Meteorology has shared a historical dataset that contains about 10 years of daily weather observations from numerous Australian weather stations.
 
