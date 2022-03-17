@@ -10,6 +10,11 @@ Did exploratory data analysis to establish correlation with inputs and target
  used one hot encoding, scaling numeric feature
  
  Used linear regression Algorithm for training the model 
+ 
+ 
+ 
+ 
+ 
 
 
 DATASCIENCE WEATHER PREDICTION - PROJECT 2
