@@ -10,3 +10,16 @@ Did exploratory data analysis to establish correlation with inputs and target
  used one hot encoding, scaling numeric feature
  
  Used linear regression Algorithm for training the model 
+
+
+DATASCIENCE WEATHER PREDICTION - PROJECT 2
+
+Commonwealth of Australia, Bureau of Meteorology has shared a historical dataset that contains about 10 years of daily weather observations from numerous Australian weather stations.
+
+Created a model to predict the value of the column "Rain tomorrow" using the input values such as Date Location, MinTemp, MaxTemp, Rainfall, Evaporation, Sunshine, WindGustDir, WindGustSpeed, WindDir9am, WindDir3pm, WindSpeed9am, WindSpeed3pm, Humidity9am, Humidity3pm, Pressure9am, Pressure3pm, Cloud9am, Cloud3pm, Temp9am, Temp3pm, RainToday and RainTomorrow.
+
+Used One hot encoding, Imputing missing values, scaling numeric feature
+
+Used Logistic regression algorithm for classification
+
+created confusion matrix and obtained 85% accuracy for the model
