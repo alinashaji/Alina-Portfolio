@@ -17,7 +17,7 @@ Did exploratory data analysis to establish correlation with inputs and target
  
 
 
- PROJECT 2 - WEATHER PREDICTION -
+ PROJECT 2 - WEATHER PREDICTION (https://github.com/alinashaji/Alina-Portfolio/blob/main/Deep_learning_image_classification.ipynb)
 
 Commonwealth of Australia, Bureau of Meteorology has shared a historical dataset that contains about 10 years of daily weather observations from numerous Australian weather stations.
 
