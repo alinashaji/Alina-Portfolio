@@ -46,4 +46,6 @@ Trained the model and evaluated model using a validation set
 Tested the model by randomly selected examples
 
 ![image](https://user-images.githubusercontent.com/101203819/159131837-50857614-be9d-4d92-9cb8-9ae3bc2e0dc3.png)
+![image](https://user-images.githubusercontent.com/101203819/159131880-08435807-6ecb-4edd-a774-85aac93851b6.png)
+
 
