@@ -17,7 +17,7 @@ Did exploratory data analysis to establish correlation with inputs and target
  
 
 
- PROJECT 2 - DATASCIENCE WEATHER PREDICTION -
+ PROJECT 2 - WEATHER PREDICTION -
 
 Commonwealth of Australia, Bureau of Meteorology has shared a historical dataset that contains about 10 years of daily weather observations from numerous Australian weather stations.
 
@@ -28,3 +28,17 @@ Used One hot encoding, Imputing missing values, scaling numeric feature
 Used Logistic regression algorithm for classification
 
 created confusion matrix and obtained 85% accuracy for the model
+
+PROJECT 3 - MNIST HANDWRITTEN DIGITS IMAGE CLASSIFICATION
+
+MNIST dataset contain 28px by 28px grayscale images of handwritten digits from 0 to 9
+
+Created a model using pytorch and logistic regression
+
+Used softmax for generating output as probability
+
+used evaluation metrics "accuracy" and loss function "cross entropy"
+
+Trained the model and evaluated model using a validation set
+
+Tested the model by randomly selected examples
