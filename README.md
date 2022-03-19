@@ -1,6 +1,6 @@
 # Alina-Portfolio
 
-PROJECT 1 - MEDICAL INSURANCE PRICE PREDICTION
+PROJECT 1 - MEDICAL INSURANCE PRICE PREDICTION(https://github.com/alinashaji/Alina-Portfolio/blob/main/insurance%20prediction.ipynb)
 : Created a machine learning model for predicting the insurance price for the new customers by training the historical data.
 
 Historical data set contains more than 1000's of unique entries
@@ -17,7 +17,7 @@ Did exploratory data analysis to establish correlation with inputs and target
  
 
 
- PROJECT 2 - WEATHER PREDICTION
+ PROJECT 2 - WEATHER PREDICTION(https://github.com/alinashaji/Alina-Portfolio/blob/main/weather%20prediction.ipynb)
 
 Commonwealth of Australia, Bureau of Meteorology has shared a historical dataset that contains about 10 years of daily weather observations from numerous Australian weather stations.
 
