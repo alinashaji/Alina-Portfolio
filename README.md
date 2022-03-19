@@ -1,7 +1,9 @@
 # Alina-Portfolio
 
 PROJECT 1 - MEDICAL INSURANCE PRICE PREDICTION(https://github.com/alinashaji/Alina-Portfolio/blob/main/insurance%20prediction.ipynb)
-: Created a machine learning model for predicting the insurance price for the new customers by training the historical data.
+: 
+
+Created a machine learning model for predicting the insurance price for the new customers by training the historical data.
 
 Historical data set contains more than 1000's of unique entries
 
