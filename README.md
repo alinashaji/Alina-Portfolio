@@ -17,7 +17,7 @@ Did exploratory data analysis to establish correlation with inputs and target
  
 
 
- PROJECT 2 - WEATHER PREDICTION (https://github.com/alinashaji/Alina-Portfolio/blob/main/Deep_learning_image_classification.ipynb)
+ PROJECT 2 - WEATHER PREDICTION
 
 Commonwealth of Australia, Bureau of Meteorology has shared a historical dataset that contains about 10 years of daily weather observations from numerous Australian weather stations.
 
@@ -29,7 +29,7 @@ Used Logistic regression algorithm for classification
 
 created confusion matrix and obtained 85% accuracy for the model
 
-PROJECT 3 - MNIST HANDWRITTEN DIGITS IMAGE CLASSIFICATION
+PROJECT 3 - MNIST HANDWRITTEN DIGITS IMAGE CLASSIFICATION(https://github.com/alinashaji/Alina-Portfolio/blob/main/Deep_learning_image_classification.ipynb)
 
 MNIST dataset contain 28px by 28px grayscale images of handwritten digits from 0 to 9
 
