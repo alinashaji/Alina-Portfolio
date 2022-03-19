@@ -31,6 +31,16 @@ Used Logistic regression algorithm for classification
 
 created confusion matrix and obtained 85% accuracy for the model
 
+![image](https://user-images.githubusercontent.com/101203819/159131945-22ed0d00-dced-4ca3-9205-8b321fd518da.png)
+
+
+
+
+
+
+
+
+
 PROJECT 3 - MNIST HANDWRITTEN DIGITS IMAGE CLASSIFICATION(https://github.com/alinashaji/Alina-Portfolio/blob/main/Deep_learning_image_classification.ipynb)
 
 MNIST dataset contain 28px by 28px grayscale images of handwritten digits from 0 to 9
