@@ -12,6 +12,8 @@ Did exploratory data analysis to establish correlation with inputs and target
  used one hot encoding, scaling numeric feature
  
  Used linear regression Algorithm for training the model 
+ ![image](https://user-images.githubusercontent.com/101203819/159131983-8701d8fb-1fb5-4e0a-bf49-9464fd15a383.png)
+
  
  
  
