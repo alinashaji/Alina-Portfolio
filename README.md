@@ -1,6 +1,20 @@
 # Alina-Portfolio
+PROJECT 1- IMAGE CLASSIFICATION USING DEEP NEURAL NETWORK (PYTORCH)
 
-PROJECT 1 - MEDICAL INSURANCE PRICE PREDICTION(https://github.com/alinashaji/Alina-Portfolio/blob/main/insurance%20prediction.ipynb)
+In this model, we have created a 3 layer neural network for classifying the images in the FASHION MNIST dataset.(PYTORCH)
+
+We used ReLU activation function to introduce non-linearity into the model, that helps our model to learn more complex relationships between the inputs (pixel densities) and outputs (class probabilities).
+
+Used utilities like get_default_device, to_device and DeviceDataLoader which allows the model use GPU if availabe else use CPU
+
+Our model was able to make fair predictions with an accuracy of 90%
+
+Suggestion: Model can be improved by adding more hidden layers
+
+
+
+
+PROJECT 2 - MEDICAL INSURANCE PRICE PREDICTION(https://github.com/alinashaji/Alina-Portfolio/blob/main/insurance%20prediction.ipynb)
 : 
 
 Created a machine learning model for predicting the insurance price for the new customers by training the historical data.
@@ -21,7 +35,7 @@ Did exploratory data analysis to establish correlation with inputs and target
  
 
 
- PROJECT 2 - WEATHER PREDICTION(https://github.com/alinashaji/Alina-Portfolio/blob/main/weather%20prediction.ipynb)
+ PROJECT 3 - WEATHER PREDICTION(https://github.com/alinashaji/Alina-Portfolio/blob/main/weather%20prediction.ipynb)
 
 Commonwealth of Australia, Bureau of Meteorology has shared a historical dataset that contains about 10 years of daily weather observations from numerous Australian weather stations.
 
@@ -43,7 +57,7 @@ created confusion matrix and obtained 85% accuracy for the model
 
 
 
-PROJECT 3 - MNIST HANDWRITTEN DIGITS IMAGE CLASSIFICATION(https://github.com/alinashaji/Alina-Portfolio/blob/main/Deep_learning_image_classification.ipynb)
+PROJECT 4 - MNIST HANDWRITTEN DIGITS IMAGE CLASSIFICATION(https://github.com/alinashaji/Alina-Portfolio/blob/main/Deep_learning_image_classification.ipynb)
 
 MNIST dataset contain 28px by 28px grayscale images of handwritten digits from 0 to 9
 
