@@ -1,5 +1,5 @@
 # Alina-Portfolio
-PROJECT 1- IMAGE CLASSIFICATION USING DEEP NEURAL NETWORK (PYTORCH)
+PROJECT 1- IMAGE CLASSIFICATION USING DEEP NEURAL NETWORK (PYTORCH)(https://github.com/alinashaji/Alina-Portfolio/blob/main/Image_classification_neural_network.ipynb)
 
 In this model, we have created a 3 layer neural network for classifying the images in the FASHION MNIST dataset.(PYTORCH)
 
