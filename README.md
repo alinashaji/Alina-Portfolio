@@ -11,10 +11,16 @@ Our model was able to make fair predictions with an accuracy of 90%
 
 Suggestion: Model can be improved by adding more hidden layers
 
+PROJECT 2 - BREAST CANCER DETECTION https://github.com/alinashaji/Alina-Portfolio/blob/main/breast_cancer_detection_2_%20(2).pdf
+
+Breast cancer is one of the most common causes of death among women worldwide. Early-stage detection would help the world to reduce the number of deaths. Breast cancer occurs when the cells begin to multiply abnormally and will result in a lump. The lumps present in the human body can be classified as cancerous and non-cancerous. Non-cancerous tumors are pretty common and they don’t have any symptoms.
+UCI has shared a historical dataset that describes the diagnosis results of whether a tumor is malignant or benign. Malignant tumors are cancerous whereas Benign tumors are noncancerous.  
+createD a fully automated system that uses the columns(characteristics) in the dataset to predict if a tumor in the breast is malignant or benign.
 
 
 
-PROJECT 2 - MEDICAL INSURANCE PRICE PREDICTION(https://github.com/alinashaji/Alina-Portfolio/blob/main/insurance%20prediction.ipynb)
+
+PROJECT 3 - MEDICAL INSURANCE PRICE PREDICTION(https://github.com/alinashaji/Alina-Portfolio/blob/main/insurance%20prediction.ipynb)
 : 
 
 Created a machine learning model for predicting the insurance price for the new customers by training the historical data.
@@ -35,7 +41,7 @@ Did exploratory data analysis to establish correlation with inputs and target
  
 
 
- PROJECT 3 - WEATHER PREDICTION(https://github.com/alinashaji/Alina-Portfolio/blob/main/weather%20prediction.ipynb)
+ PROJECT 4 - WEATHER PREDICTION(https://github.com/alinashaji/Alina-Portfolio/blob/main/weather%20prediction.ipynb)
 
 Commonwealth of Australia, Bureau of Meteorology has shared a historical dataset that contains about 10 years of daily weather observations from numerous Australian weather stations.
 
@@ -57,7 +63,7 @@ created confusion matrix and obtained 85% accuracy for the model
 
 
 
-PROJECT 4 - MNIST HANDWRITTEN DIGITS IMAGE CLASSIFICATION(https://github.com/alinashaji/Alina-Portfolio/blob/main/Deep_learning_image_classification.ipynb)
+PROJECT 5 - MNIST HANDWRITTEN DIGITS IMAGE CLASSIFICATION(https://github.com/alinashaji/Alina-Portfolio/blob/main/Deep_learning_image_classification.ipynb)
 
 MNIST dataset contain 28px by 28px grayscale images of handwritten digits from 0 to 9
 
